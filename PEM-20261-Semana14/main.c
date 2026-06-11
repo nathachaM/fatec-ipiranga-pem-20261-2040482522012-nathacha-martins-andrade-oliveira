@@ -5,7 +5,7 @@
 *-----------------------------------------------------------*
 * Objetivo do Programa: Conversor e calculadora cient. CUCC *
 * Data - 15/05/2026                                         * 
-* Autor: Thiago Rocha Lira                                  *
+* Autor: Nathacha Martins Andrade de Oliveira               *
 *-----------------------------------------------------------*/
 #include <stdio.h>
 #include "recursao.h"
