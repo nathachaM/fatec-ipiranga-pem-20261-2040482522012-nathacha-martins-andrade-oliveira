@@ -5,7 +5,7 @@
 *-----------------------------------------------------------*
 * Objetivo do Programa: Busca em profundidade(Recursividade)*
 * Data - 24/04/2026                                         * 
-* Autor: Thiago Lira                                        *
+* Autor:  Nathacha Martins Andrade de Oliveira              *
 *-----------------------------------------------------------*/
 #include <stdio.h>
 #include <string.h>
